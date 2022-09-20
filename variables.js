@@ -3,8 +3,10 @@ var name = "Chesty Haddad";
 
 console.log(name)
 
-
+// number variables
 var age = 30
+var heightInInches = 61;
+
 
 var email = "blancherachel@gmail.com";
 var cat = "Chesty"
