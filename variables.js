@@ -1,5 +1,5 @@
 var name = "Blanche Haddad";
-var name = "Chesty Haddad";
+
 
 console.log(name)
 
@@ -13,11 +13,15 @@ var cat = "Chesty"
 var catAge = 4
 
 // Boolean variables
-var depositPaid = true
-var isEmployed = false
-var likesSodaWater = true
+var depositPaid = true;
+var isEmployed = false;
+var likesSodaWater = true;
 
-console.log(cat_age);
-console.log(cat);
-console.log(catAge);
+name = "Chesty";
+email = "Helloworld@gmail.com";
+
+console.log(name);
+console.log(email);
 console.log(depositPaid);
+console.log(isEmployed);
+console.log(catAge);
